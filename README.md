@@ -1,20 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Njubi</h1>
-<h3 align="center">A passionate developer from Nairobi Kenya &#127470;&#127472&#127466</h3>
+<h3 align="center">Nairobi &#127470;&#127472&#127466</h3>
 <p align="center">
   <a href="https://github.com/njubi-Inc">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Mathematics;DS%20|%20Algorithms%20|%20OOP%20OOP;Avid%20Learner%20&center=true&width=500&height=50">
   </a>
 </p>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
- 	<a style="margin-left: 10px;" target="_blank" href="https://github.com/njubi-inc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-	</a>
-	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/">
-		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
-	</a>
-	<a style="margin-left: 10px;" target="_blank" href="https://dev.to/">
-		<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png">
-	</a>
 	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/_njubi">
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	<a style="margin-left: 5px;" target="_blank" href="https://github.com/njubi-inc">
@@ -25,12 +16,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=njubi-inc&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=njubi-inc&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=njubi-inc)](https://github.com/ryo-ma/github-profile-trophy)
-
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa">
-  <img alt="7oSkaaa's Activity Graph" 
+   <a href="https://github.com/njubi-inc">
+  <img alt="Activity Graph" 
        src="https://activity-graph.herokuapp.com/graph?username=njubi-inc&custom_title=Njubi%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
