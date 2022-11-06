@@ -2,7 +2,7 @@
 <h3 align="center">Nairobi &#127470;&#127472&#127466</h3>
 <p align="center">
   <a href="https://github.com/njubi-Inc">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Mathematics;DS%20|%20Algorithms%20|%20OOP%20OOP;Avid%20Learner%20&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=|%20Typescript%20|%20Rust%20|%20Javascript%20|;&center=true&width=500&height=50">
   </a>
 </p>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
